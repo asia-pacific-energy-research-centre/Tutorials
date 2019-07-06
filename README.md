@@ -3,6 +3,7 @@
 This repository contains tutorials and examples of data cleaning and shaping, regressions, and more. These examples are from other repositories on GitHub. To use these, clone the repository to your computer and start a new branch.
 
 1. Linear Regression Demo
+2. Pandas Exercises
 
 Languages:
 - Python
