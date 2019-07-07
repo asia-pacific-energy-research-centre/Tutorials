@@ -2,12 +2,19 @@
 ## Overview
 This repository contains tutorials and examples of data cleaning and shaping, regressions, and more. These examples are from other repositories on GitHub. To use these, clone the repository to your computer and start a new branch.
 
-1. Linear Regression Demo
-2. Pandas Exercises
-3. Added Gender Classification Challenge
+1. Steel Industry Regression - example of regression using 7th Edition data for steel sector
+2. Linear Regression Demo
+3. Pandas Exercises
+4. Added Gender Classification Challenge
 
-Languages:
-- Python
+### Tidy Data and Reproducability
+Two important concepts we follow are:
+1. Tidy Data
+2. Reproducability
+
+Please see the docs folder for papers on both topics.
+
+A Python Pandas cheat sheet is saved in the docs folder.
 
 Suggested Editors
 - [Visual Studio Code](https://code.visualstudio.com/)
