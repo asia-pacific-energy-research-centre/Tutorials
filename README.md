@@ -17,6 +17,8 @@ Suggested Editors
 ### Data cleaning
 <https://honingds.com/blog/pandas-read_csv/>
 
+<https://www.geeksforgeeks.org/saving-a-pandas-dataframe-as-a-csv/>
+
 ### Regression in Python
 <https://towardsdatascience.com/linear-regression-using-python-ce21aa90ade6>
 
