@@ -9,16 +9,17 @@ This repository contains tutorials and examples of data cleaning and shaping, re
 
 ### Tidy Data and Reproducability
 Two important concepts we follow are:
-1. Tidy Data
-2. Reproducability
+1. Tidy Data [PDF](https://vita.had.co.nz/papers/tidy-data.pdf)
+2. Reproducability [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510#pcbi-1005510-g001); [PDF](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005510&type=printable)
 
 Please see the docs folder for papers on both topics.
 
 A Python Pandas cheat sheet is saved in the docs folder.
 
-Suggested Editors
-- [Visual Studio Code](https://code.visualstudio.com/)
-- Jupyter Notebook (included in [Anaconda](https://www.anaconda.com/))
+### Text Editor
+A powerful text editor is _highly_ recommended.
+- [Visual Studio Code](https://code.visualstudio.com/). You can write and run Python and GAMS code. It even has a jupyter notebook so you can test your Python scripts without leaving the app (and without needing to open a web browser).
+- Jupyter Notebook (included in [Anaconda](https://www.anaconda.com/)). You can run Python in Visual Studio Code. Some files you will see are in .ipnyb format, which you'll need to open in your browser.
 
 ## Useful links
 ### Data cleaning
