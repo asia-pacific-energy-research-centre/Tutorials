@@ -2,17 +2,18 @@
 ## Overview
 This repository contains tutorials and examples of data cleaning and shaping, regressions, and more. These examples are from other repositories on GitHub. To use these, clone the repository to your computer and start a new branch.
 
-1. Steel Industry Regression - example of regression using 7th Edition data for steel sector
-2. Linear Regression Demo
-3. Pandas Exercises
-4. Added Gender Classification Challenge
+1. Tidy Data - data used in the "Tidy Data" paper
+2. Steel Industry Regression - example of regression using 7th Edition data for steel sector
+3. Linear Regression Demo
+4. Pandas Exercises
+5. Gender Classification Challenge
 
 ### Tidy Data and Reproducability
 Two important concepts we follow are:
 1. Tidy Data [PDF](https://vita.had.co.nz/papers/tidy-data.pdf)
 2. Reproducability [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510#pcbi-1005510-g001); [PDF](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005510&type=printable)
 
-Please see the docs folder for papers on both topics.
+Please see the docs folder for papers on both topics. The data from the Tidy Data paper is also available.
 
 A Python Pandas cheat sheet is saved in the docs folder.
 
